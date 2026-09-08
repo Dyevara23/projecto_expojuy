@@ -94,5 +94,5 @@ Diseño concebido para una experiencia óptima en teléfonos móviles, tablets y
 ---
 
 ## 9. Prototipos y Mockups
-- 💻 **Vista Web para Ordenador:** [Ver Mockup PC](VistaWebPc)
-- 📱 **Vista Web para Móviles:** [Ver Mockup Móvil](VistaWebMovil)
+- 💻 **Vista Web para Ordenador:** [Ver Mockup PC (Penpot)](https://design.penpot.app/#/view?file-id=40e06342-8830-80d6-8008-97fd762f44d7&page-id=40e06342-8830-80d6-8008-97fd762f44d8&section=interactions&index=2&share-id=40e06342-8830-80d6-8008-9b304448c6f7)
+- 📱 **Vista Web para Móviles:** [Ver Mockup Móvil (Penpot)](https://design.penpot.app/#/view?file-id=40e06342-8830-80d6-8008-9b1e2d43ab58&page-id=40e06342-8830-80d6-8008-9b1e2d43ab59&section=interactions&index=0&share-id=c828d3cf-7d4e-8145-8008-9b3030a893c2)
